@@ -1,0 +1,3 @@
+hola <div class="d-none d-sm-block">
+    
+</div>
